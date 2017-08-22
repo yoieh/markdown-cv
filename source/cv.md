@@ -1,93 +1,103 @@
 ---
-title: 'Your Name'
-website: http://yourwebsite.com
-street: Street address
-city: City
-postcode: Postal code
-phone: +12 (0)3456 7891011
-email: your.email@address.com
-date: 22 November 2014
+title: CV
+street: Södergatan 105
+city: Helsingborg
+postcode: 252 27
+phone: +46 (0)09181727
+author: Johan Nilsson
+email: yoieh@live.se
+githubURL: https://github.com/yoieh
+github: github.com/yoieh
+linkedinURL: https://www.linkedin.com/in/johan-nilsson-a53531a7/
+linkedin: linkedin.com/in/johan-nilsson-a53531a7
+date: 21 August 2017
+profile: source/images/front.jpg
 ...
 
-### Personal summary
+# Svenska
 
-> My research interests are ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Personlig sammanfattning
 
-### Education 
+> This is ME!
 
-- M.A.     Subject (grade), University name and location
-- B.A.     Subject (grade), University name and location
-- A Level  Subject (grade), University name and location
+### Utbildning
 
-### Technical
+- **Sep 2015 - Dec 2016   YH, Linux System Specialist, Hermods EC, Malmö**
+- **Sep 2013 - Jan 1014   Högskola, Digital Design, Högskolan Kristianstad, Kristianstad** *(Droped out after one semester)*
+- **Aug 2008 - Jun 2011   Gymnasium, Elprogrammet, IT inriktning, Jacobskolan, Hässleholm**
+- **Aug 1999 - Jun 2008   Grundskolan, Bjärnums centralskola, Bjärnum**
 
-- Intermediate: HTML, Python, etc, etc
-- Basic: CSS, Stata, etc, etc
+### Praktikplatser
 
-### Employment 
+- **2016 - Feb 2017:     JG Software AB, DevOps**
 
-- 2015: Job title, Company
+> Det här var under min YH utbildning till Linux System Specialist och utvecklade i JG Softwares webbaserade Fleet/Case management tjänst. Tog även fram en mailserver skreven i python för att från en skanner med email function skicka och ta emot i en av JGs andra webbaserade tjänster. Under min praktik intruduserade jag även git för företaget som används flitigt idag i alla projekt som utvecklas.
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- **Maj 2014 - Jan 1014: Lindens Gård AB, Lindens Media group**
 
-- 2012: Job title, Company
+> Praktik via Arbetsförmedlingen på Lindens Gård AB. Här satt jag som webbutvecklare i diverse projekt var det största var nätbaserat “intranet” till Hässleholms Galleria som jag utvecklade i objektorienterad PHP, en sökmotor för att hitta närmaste veterinär och många fler. Var tyvärr en väldigt rörig arbetsplats och många av projekten blev aldrig slutförda innan min praktik avslutades.
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Teknisk
 
-- 2011: Job title, Company
+- **Advanced:** PHP, Node/express, AngularJS, Python, JS, CSS, HTML5, Bash, Bootstrap, Materialize, Linux, jQuery, MySQL
+- **Intermediate:** Angular2-4, SCSS/SASS, Bind9, Nagios, MongoDB
+- **Basic:** GOLang, Ruby
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Anställningar
 
-- 2008: Job title, Company
+- **Feb 2017 - På gående: JG Software AB, DevOps**
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Här sitter jag i dagsläget och utvecklar container baserade system och tjänstart som node APIer, web aplicationer och även mobil applicationer til både android and ios. I dagsläget är nästan allt jag jobbar med JS baserat.
+
+- **Aug 2013 - Jul 2014: Timanställning, Fastighetsavdelningen, Bergendahls Food**
+
+> Jobbar med allt från att jag städar på lagret till att vara fastighetsskötare till att vara kontorsmaterials ansvarig. Där jag även hade ansvar över inkommande/utgående fakturor, paket och övrig post.
+
+- **Jun 2013 - Aug 2013: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
+
+> Kontorsservice. Hand om kontorsmaterial och post.
+
+- **Aug 2012 - Jun 2013: Timanställning, Fastighetsavdelningen, Bergendahls Food**
+
+> Jobbade med allt från att städa på lagret, att vara fastighetsskötare kontorsservice.
+
+- **Jun 2012 - Aug 2012: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
+
+> Jobba på kontorsservice där jag hade hand om inkommande/utgående fakturor, paket och övrig post. Där hade jag även ansvar över bland annat kontorsmaterial.
+
+- **Jun 2011 - Aug 2011: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
+
+> Jobbade åtta veckor med städningen av frysen men även trädgårdsarbete.
+
+- **Jun 2010 - Aug 2010: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
+
+> Jobbade åtta veckor med trädgårdsarbete och städning av lager.
+
+- **Jun 2009 - Jun 2009: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
+
+> Jobbade fyra veckor med att städa på lagret.
 
 \newpage
 
-### Publications
+### Projekt/Tjänster
 
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
+Projekt eller tjänster som jag har utvecklat eller varit delaktig i
 
-### Selected presentations
-
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-
-### Memberships and committees
-
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-
-### Awards and supporting information
-
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
+- Roadside [roadside.nu](http://roadside.nu/)
+- Roadside Mechanical Interaction [play.google.com/store/apps/details?id=nu.roadside.mi](https://play.google.com/store/apps/details?id=nu.roadside.mi)
+- Hässleholms Gallerias intranät (Tror inte det används längre)
+- MailToPython (Python mailservern jag byggde åt JG Software)
 
 ### References
 
 Available on request.
 
+### Examensbevis eller Betyg
 
+Available on request.
 
+### Övrigt
 
+Detta cv är generat av ett project jag har forkat byggt om lite på github
 
+[github.com/yoieh/markdown-cv](https://github.com/yoieh/markdown-cv)

@@ -53,9 +53,10 @@
 \subsubsectionfont{\rmfamily\bfseries\upshape\normalsize}
 
 \usepackage{titling}
-\title{$title$} % name $if(title)$$title$$endif$
+\title{$author$} % name $if(author)$$author$$endif$
 \date{$if(date)$$date$\\$endif$} % Leave blank to remove the date
 \author{$if(website)$$website$\\\\$endif$
+$if(title)$$title$\\\\$endif$
 $if(github)$Github: \href{$githubURL$}{$github$}\\$endif$
 $if(linkedin)$Linkedin: \href{$linkedinURL$}{$linkedin$}\\$endif$
 $street$ \textbar{} $city$, $postcode$\\ %Put your address here
@@ -68,7 +69,7 @@ $phone$ \textbar{} $email$ } % put your contact information here
                     text=blue,
                     path picture={
                         \node at (0,-1){ % should be path picture bounding box.south
-                            \includegraphics[width=100mm]{source/images/front.jpg}
+                            \includegraphics[width=100mm]{$profile$}
                         };
                     }]{};
 \end{figure}
