@@ -3,7 +3,7 @@ title: CV
 street: Södergatan 105
 city: Helsingborg
 postcode: 252 27
-phone: +46 (0)09181727
+phone: +46 (0)709181727
 author: Johan Nilsson
 email: yoieh@live.se
 githubURL: https://github.com/yoieh
@@ -18,12 +18,11 @@ profile: source/images/front.jpg
 
 ### Personlig sammanfattning
 
-> This is ME!
+> Mitt namn är Johan, född 93, är en kille med många sprida intressen. Är speciellt intresserad av webbdesign, webbutveckling och programmering av olika typer. Rik på nya idéer och lösningar. Är även speciellt nyfiken på nya teknologier och alltid intresserad av att lära mig något nytt.
 
 ### Utbildning
 
 - **Sep 2015 - Dec 2016   YH, Linux System Specialist, Hermods EC, Malmö**
-- **Sep 2013 - Jan 1014   Högskola, Digital Design, Högskolan Kristianstad, Kristianstad** *(Droped out after one semester)*
 - **Aug 2008 - Jun 2011   Gymnasium, Elprogrammet, IT inriktning, Jacobskolan, Hässleholm**
 - **Aug 1999 - Jun 2008   Grundskolan, Bjärnums centralskola, Bjärnum**
 
@@ -31,9 +30,9 @@ profile: source/images/front.jpg
 
 - **2016 - Feb 2017:     JG Software AB, DevOps**
 
-> Det här var under min YH utbildning till Linux System Specialist och utvecklade i JG Softwares webbaserade Fleet/Case management tjänst. Tog även fram en mailserver skreven i python för att från en skanner med email function skicka och ta emot i en av JGs andra webbaserade tjänster. Under min praktik intruduserade jag även git för företaget som används flitigt idag i alla projekt som utvecklas.
+> Det här var under min YH utbildning till Linux System Specialist och under denna period hjälpte jag till att utveckla JG Softwares webbaserade Fleet/Case management tjänst. Tog även fram en mailserver som vi kallar "MailToPython" som är skriven i Python. Under min praktik introducerade jag även Git för företaget som används flitigt idag i alla projekt som utvecklas.
 
-- **Maj 2014 - Jan 1014: Lindens Gård AB, Lindens Media group**
+- **Maj 2014 - Jan 2015: Lindens Gård AB, Lindens Media group**
 
 > Praktik via Arbetsförmedlingen på Lindens Gård AB. Här satt jag som webbutvecklare i diverse projekt var det största var nätbaserat “intranet” till Hässleholms Galleria som jag utvecklade i objektorienterad PHP, en sökmotor för att hitta närmaste veterinär och många fler. Var tyvärr en väldigt rörig arbetsplats och många av projekten blev aldrig slutförda innan min praktik avslutades.
 
@@ -45,21 +44,21 @@ profile: source/images/front.jpg
 
 ### Anställningar
 
-- **Feb 2017 - På gående: JG Software AB, DevOps**
+- **Feb 2017 - Pågående: JG Software AB, DevOps**
 
-> Här sitter jag i dagsläget och utvecklar container baserade system och tjänstart som node APIer, web aplicationer och även mobil applicationer til både android and ios. I dagsläget är nästan allt jag jobbar med JS baserat.
+> Här sitter jag i dagsläget och utvecklar container baserade system och tjänster så som node APIer, webb applikationer och även mobil applikationer till både Android and iOS. I dagsläget är nästan allt jag jobbar med JS baserat.
 
 - **Aug 2013 - Jul 2014: Timanställning, Fastighetsavdelningen, Bergendahls Food**
 
-> Jobbar med allt från att jag städar på lagret till att vara fastighetsskötare till att vara kontorsmaterials ansvarig. Där jag även hade ansvar över inkommande/utgående fakturor, paket och övrig post.
+> Jobbar med allt från att jag städar på lagret till  fastighetsskötsel och även kontorsmaterials ansvarig. Där hade jag även ansvar över inkommande/utgående fakturor, paket och övrig post.
 
 - **Jun 2013 - Aug 2013: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
 
-> Kontorsservice. Hand om kontorsmaterial och post.
+> Kontorsservice. Hade hand om kontorsmaterial och post.
 
 - **Aug 2012 - Jun 2013: Timanställning, Fastighetsavdelningen, Bergendahls Food**
 
-> Jobbade med allt från att städa på lagret, att vara fastighetsskötare kontorsservice.
+> Jobbade med allt från att städa på lagret, att vara fastighetsskötare och kontorsservice.
 
 - **Jun 2012 - Aug 2012: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
 
@@ -67,7 +66,7 @@ profile: source/images/front.jpg
 
 - **Jun 2011 - Aug 2011: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
 
-> Jobbade åtta veckor med städningen av frysen men även trädgårdsarbete.
+> Jobbade åtta veckor med städningen av fryslagret men även trädgårdsarbete.
 
 - **Jun 2010 - Aug 2010: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
 
@@ -85,19 +84,19 @@ Projekt eller tjänster som jag har utvecklat eller varit delaktig i
 
 - Roadside [roadside.nu](http://roadside.nu/)
 - Roadside Mechanical Interaction [play.google.com/store/apps/details?id=nu.roadside.mi](https://play.google.com/store/apps/details?id=nu.roadside.mi)
-- Hässleholms Gallerias intranät (Tror inte det används längre)
-- MailToPython (Python mailservern jag byggde åt JG Software)
+- Hässleholms Gallerias intranät
+- MailToPython
 
 ### References
 
-Available on request.
+Tillgängligt vid förfrågan.
 
 ### Examensbevis eller Betyg
 
-Available on request.
+Tillgänligt vid förfrågan.
 
 ### Övrigt
 
-Detta cv är generat av ett project jag har forkat byggt om lite på github
+Detta CV är skrevit i markdown. Genererat med ett project och en LaTeX template som jag har forkat och byggt om på github.
 
 [github.com/yoieh/markdown-cv](https://github.com/yoieh/markdown-cv)
