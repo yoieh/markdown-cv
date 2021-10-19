@@ -22,3 +22,9 @@ Requires Latex (http://latex-project.org/ftp.html) and Pandoc (http://johnmacfar
 1. Create a list of useful commands
 2. Create instructions for adding variables, changing style etc.
 3. Add citation to related projects.
+
+
+## Now added an docker compose file
+
+All thats needed to run to create an pdf is:
+> docker-compose run markdonwcv-pdf
