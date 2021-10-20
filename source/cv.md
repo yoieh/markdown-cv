@@ -1,16 +1,16 @@
 ---
 title: CV
-street: Södergatan 105
+street: 
 city: Helsingborg
-postcode: 252 27
-phone: +46 (0)709181727
+postcode: 
+phone: 
 author: Johan Nilsson
 email: yoieh@live.se
 githubURL: https://github.com/yoieh
 github: github.com/yoieh
 linkedinURL: https://www.linkedin.com/in/johan-nilsson-a53531a7/
 linkedin: linkedin.com/in/johan-nilsson-a53531a7
-date: 21 August 2017
+date: 20 Oktober 2021
 profile: source/images/front.jpg
 ...
 
