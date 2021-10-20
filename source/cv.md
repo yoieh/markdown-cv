@@ -43,7 +43,9 @@ profile: source/images/front.jpg
 - **Basic:** GOLang, Ruby
 
 ### Anställningar
+
 - **Feb 2018 - Pågående: JG Software AB, Konsult/Webutvecklare/DevOps**
+
 > Detta är var jag hållt till de senaste åren. Började med en plats som 100% uthyrd hos en kund var jag i förstahand satt med en React frontend som hostades i en Azure miljö. Detta var ca 1.5 år. Där efter har jag suttit med divärse olika uppdrag var vi har tagit fram mer custom webbaserade system till olika brancher. Har också involverat en härlig blanding av olika ramverk både frontend, backend samt olika hosting lösningar.
 
 - **Feb 2017 - Oct 2017: JG Software AB, DevOps/Webutvecklare**
