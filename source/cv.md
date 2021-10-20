@@ -38,9 +38,9 @@ profile: source/images/front.jpg
 
 ### Teknisk
 
-- **Advanced:** PHP, Node/express, AngularJS, Python, JS, CSS, HTML5, Bash, Bootstrap, Materialize, Linux, jQuery, MySQL
-- **Intermediate:** Angular2-4, SCSS/SASS, Bind9, Nagios, MongoDB
-- **Basic:** GOLang, Ruby
+- **Advanced:** Linux, Docker, PHP, Laravel, Git, React, Angular, Python, JS, CSS, SCSS/SASS, HTML5, Bash,  Bootstrap, Materialize, Node/express, jQuery, MySQL, C#, CI/CD, Azure Devops, Jira
+- **Intermediate:** Bind9, Nagios, MongoDB
+- **Basic:** GOLang
 
 ### Anställningar
 
