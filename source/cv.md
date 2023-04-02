@@ -10,7 +10,7 @@ githubURL: https://github.com/yoieh
 github: github.com/yoieh
 linkedinURL: https://www.linkedin.com/in/johan-nilsson-a53531a7/
 linkedin: linkedin.com/in/johan-nilsson-a53531a7
-date: 20 Oktober 2021
+date: 02 April 2023
 profile: source/images/front.jpg
 ...
 
@@ -18,13 +18,17 @@ profile: source/images/front.jpg
 
 ### Personal Summary
 
-> My name is Johan, born in '93, a guy with many diverse interests. I am particularly interested in web design, web development, and various types of programming. Rich in new ideas and solutions. I am also especially curious about new technologies and always interested in learning something new.
+> I'm Johan, a Senior Software Engineer and Linux System Specialist with over 9 years of web development experience. Specializing in React, Angular, and PHP, I am passionate about web design, development, and exploring new technologies. My diverse skill set and commitment to continuous learning allow me to excel in various projects.
 
-### Utbildning
+> In my free time, I enjoy working on personal projects and experimenting with game engines and server services. As a video game enthusiast, I appreciate the importance of engaging user experiences.
 
-- **Sep 2015 - Dec 2016 YH, Linux System Specialist, Hermods EC, Malmö**
-- **Aug 2008 - Jun 2011 Gymnasium, Elprogrammet, IT inriktning, Jacobskolan, Hässleholm**
-- **Aug 1999 - Jun 2008 Grundskolan, Bjärnums centralskola, Bjärnum**
+> I'm dedicated to leveraging my expertise and passion for technology to create innovative solutions. Let's connect and discuss how we can collaborate to build the future.
+
+### Education
+
+- **Sep 2015 - Dec 2016 Higher Vocational Education, Linux System Specialist, Hermods EC, Malmö**
+- **Aug 2008 - Jun 2011 High School, Electrical Program, IT focus, Jacobskolan, Hässleholm**
+- **Aug 1999 - Jun 2008 Elementary School, Bjärnums Central School, Bjärnum**
 
 ### Skills
 
@@ -32,109 +36,109 @@ Linux, Docker, PHP, Laravel, Git, React, Redux, Angular, Python, JS, TS, CSS, SC
 
 ### Employment
 
-- **Sep 2022 - ongoing: Kvdbil**
+- **Sep 2022 - ongoing: Kvdbil, Full-stack Developer**
 
-> TODO: 
+> Initially hired as a Python developer to work on KVD's Kubernetes backend, drawing on my Linux education. However, I quickly found myself immersed in front-end development and am now transitioning to a role where I'll be responsible for the front-end component area, covering both public and internal websites and tools.
 
 - **Feb 2018 - Sep 2022: Nerds of Sweden, Nerd/Developer**
 
-> This is where I have been for the past few years. Started with a position that was 100% outsourced to a client where I primarily worked on a React frontend hosted in an Azure environment. This lasted for about 1.5 years. Since then, I have worked on various projects where we have developed more custom web-based systems for different industries. It has also involved a delightful mix of different frameworks for both frontend, backend, and various hosting solutions.
+> Began with a 100% outsourced position at a client's site, where I primarily worked on a React frontend hosted in an Azure environment for 1.5 years. Subsequently, I worked on various custom web-based systems for different industries, involving a diverse mix of frontend, backend, and hosting frameworks and solutions.
 
 - **Feb 2017 - Oct 2017: JG Software AB, DevOps/Web Developer**
 
-> Developed container-based systems and services such as Node.js APIs, web applications, and mobile applications for both Android and iOS.
+> Developed container-based systems and services such as Node.js APIs, web applications, and mobile applications for both Android and iOS platforms.
 
 - **Aug 2012 - Jul 2014: Part-time Employment, Property Department, Bergendahls Food**
 
-> Worked with everything from cleaning the warehouse to property maintenance, office services, and even being responsible for office supplies, mail, and packages.
+> Handled a wide range of tasks from warehouse cleaning to property maintenance, office services, and managing office supplies, mail, and packages.
 
 - **Jun 2009 - Aug 2013: Summer Substitute, Property Department, Bergendahls Food**
 
-> Worked cleaning the dry, cold, and freezer storage, gardening, office services where I handled incoming/outgoing invoices, packages, and other mail, and was partly responsible for office supplies.
+> Performed duties in dry, cold, and freezer warehouse cleaning, gardening, and office services. Tasks included handling incoming/outgoing invoices, packages, and other mail, and partly managing office supplies.
 
-\newpage
+### Projects/Services
 
-### Project/Services
+A list of projects and services that I have developed or been involved in.
 
-Projects or services that I have developed or been involved in.
+- **2022 Reception App**
 
-- **2022 Reception app**
-
-> PWA to perform car inspection on lease returned cars. Great tool to make sure any damages get documented to invoice customers correctly.
-> Frontend Built in React with Vite.
+> A Progressive Web App (PWA) for conducting car inspections on lease-returned vehicles. A valuable tool for accurately documenting damages and invoicing customers.
+> Frontend built with React and Vite.
 
 - **2022 Cargo**
 
-> Internal administration tool used by KVD, administrates auctions, car transports, and much more.
-> Frontend Built in React and Redux.
+> An internal administration tool for KVD, managing auctions, car transports, and more.
+> Frontend built with React and Redux.
 
 - **2022 Fleetmanager and Leasemanager**
 
-> Administration tool to administrate handling of the company's vehicles
-> Frontend Built in Next.js and Redux.
+> Administration tool for managing the company's vehicles.
+> Frontend built with Next.js and Redux.
 
 - **2022 kvd.se and kvdcars.com**
 
-> KVD's online auction and marketplace.
-> Frontend Built in React and Redux.
+> KVD's online auction and marketplace platform.
+> Frontend built with React and Redux.
 
 - **2021 - 2022 Dacke.Online**
 
-> Dacke.Online is an easy-to-use digital sustainability tool for inventory and e-commerce site for reuse of products and materials.
-> Built in React and PHP Laravel.
+> A user-friendly digital sustainability tool for inventory and an e-commerce site for reusing products and materials.
+> Built with React and PHP Laravel.
 
-- **Oct 2020 Decal editor with print and cutting export**
+- **Oct 2020 Decal Editor with Print and Cutting Export**
 
-> Project consisting of an image editor built in React and Fabric.js, and a PDF export compatible with both print and cutting machines. The rest of the site is built in WordPress and WooCommerce.
+> A project consisting of an image editor built with React and Fabric.js, and a PDF export compatible with both print and cutting machines. The rest of the site is built with WordPress and WooCommerce.
 
-- **Jan 2020 - 2021? Resource rental admin panel**
+- **Jan 2020 - 2021 Resource Rental Admin Panel**
 
-> Admin panel for resource booking system.
-> Built in React.
+> An admin panel for a resource booking system.
+> Built with React.
 
 - **May 2019 Lambertsson Online**
 
-> Admin panel and app for managing Peab's internally and externally rented tools, machines, and equipment in all possible construction and renovation projects.
-> Built in Laravel, Angular, and NativeScript.
+> An admin panel and app for managing Peab's internally and externally rented tools, machines, and equipment for various construction and renovation projects.
+> Built with Laravel, Angular, and NativeScript.
 
-- **Sep 2019 - Dec 2020 Resource rental admin panel**
+- **Sep 2019 - Dec 2020 Resource Rental Admin Panel**
 
-> Admin panel for managing legal cases.
-> Built in Lumen/Laravel and Angular.
+> An admin panel for managing legal cases.
+> Built with Lumen/Laravel and Angular.
 
-- **Sep 2019 Satsa admin panel**
+- **Sep 2019 Satsa Admin Panel**
 
-> Admin panel for managing vandalism, primarily on trains. Built in Laravel/Lumen and Angular.
+> An admin panel for managing vandalism, primarily on trains. Built with Laravel/Lumen and Angular.
 
 - **Feb 2018 – Sep 2019 Ontee** [ontee.com](http://ontee.com/)
 
-> React frontend to Ontee's golf tee time booking engine system.
+> A React frontend for Ontee's golf tee time booking engine system.
 
 - **Feb 2018 – Sep 2019 Ontee** [app](https://www.ontee.com/sv/landing/app/)
 
-> React Native Android and iOS application, client to Ontee's golf tee time booking engine. Mostly testing.
+> A React Native Android and iOS application, client for Ontee's golf tee time booking engine. Mostly testing.
 
 - **Feb 2018 – Sep 2019 Golfhäfter** [golfhaftet.com](https://www.golfhaftet.com/sv/)
 
-> I mostly upgraded the website to a more modern JS compiler and Bootstrap 4.
+> Primarily upgraded the website to a more modern JS compiler and Bootstrap 4.
 
-- **Feb 2018 – Sep 2019 Golfhäfter app** [iPhone](https://apps.apple.com/se/app/golfh%C3%A4ftet/id957686045), [Android](https://play.google.com/store/apps/details?id=com.golfhaftet.ghApp&hl=sv&gl=US)
+- **Feb 2018 – Sep 2019 Golfhäfter App** [iPhone](https://apps.apple.com/se/app/golfh%C3%A4ftet/id957686045), [Android](https://play.google.com/store/apps/details?id=com.golfhaftet.ghApp&hl=sv&gl=US)
 
-> Testing of Android version.
+> Testing of the Android version.
 
 - **Feb 2017 - Oct 2017 Roadside** [roadside.nu](http://roadside.nu/)
 
-> Case management software, used to administrate damage of truck trailers.
+> Case management software used to administrate damage of truck trailers.
 
 - **2017 Roadside Mechanical Interaction** [play.google.com/store/apps/details?id=nu.roadside.mi](https://play.google.com/store/apps/details?id=nu.roadside.mi)
 
-> Android application used by onsite mechanics. To execute a case job administrated and assigned from Roadside.nu.
+> Android application used by onsite mechanics to execute case jobs administered and assigned from Roadside.nu.
 
 - **2016 MailToPython**
 
-  > Lia project I worked on during my Lia at JG software, the project was a whitelisted email that could send.
+> Lia project I worked on during my Lia at JG Software, developing a whitelisted email sender.
 
-- **2014?** Hässleholms mall intranet
+- **2014 Hässleholms mall intranet**
+
+> Was a proejct meant to be used as my local citys malls internalnet to share information and
 
 \newpage
 
