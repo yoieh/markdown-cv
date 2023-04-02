@@ -1,9 +1,9 @@
 ---
 title: CV
-street: 
+street:
 city: Helsingborg
-postcode: 
-phone: 
+postcode:
+phone:
 author: Johan Nilsson
 email: yoieh@live.se
 githubURL: https://github.com/yoieh
@@ -14,141 +14,150 @@ date: 20 Oktober 2021
 profile: source/images/front.jpg
 ...
 
-# Svenska
+# English
 
-### Personlig sammanfattning
+### Personal Summary
 
-> Mitt namn är Johan, född 93, är en kille med många sprida intressen. Är speciellt intresserad av webbdesign, webbutveckling och programmering av olika typer. Rik på nya idéer och lösningar. Är även speciellt nyfiken på nya teknologier och alltid intresserad av att lära mig något nytt.
+> My name is Johan, born in '93, a guy with many diverse interests. I am particularly interested in web design, web development, and various types of programming. Rich in new ideas and solutions. I am also especially curious about new technologies and always interested in learning something new.
 
 ### Utbildning
 
-- **Sep 2015 - Dec 2016   YH, Linux System Specialist, Hermods EC, Malmö**
-- **Aug 2008 - Jun 2011   Gymnasium, Elprogrammet, IT inriktning, Jacobskolan, Hässleholm**
-- **Aug 1999 - Jun 2008   Grundskolan, Bjärnums centralskola, Bjärnum**
+- **Sep 2015 - Dec 2016 YH, Linux System Specialist, Hermods EC, Malmö**
+- **Aug 2008 - Jun 2011 Gymnasium, Elprogrammet, IT inriktning, Jacobskolan, Hässleholm**
+- **Aug 1999 - Jun 2008 Grundskolan, Bjärnums centralskola, Bjärnum**
 
-### Praktikplatser
+### Skills
 
-- **2016 - Feb 2017:     JG Software AB, DevOps**
+Linux, Docker, PHP, Laravel, Git, React, Redux, Angular, Python, JS, TS, CSS, SCSS/SASS, HTML5, Bash, Bootstrap, Materialize, Node/express, jQuery, MySQL, C#, CI/CD, Azure Devops, Jira, i18n, Tailwind, styled-componets
 
-> Det här var under min YH utbildning till Linux System Specialist och under denna period hjälpte jag till att utveckla JG Softwares webbaserade Fleet/Case management tjänst. Tog även fram en mailserver som vi kallar "MailToPython" som är skriven i Python. Under min praktik introducerade jag även Git för företaget som används flitigt idag i alla projekt som utvecklas.
+### Employment
 
-- **Maj 2014 - Jan 2015: Lindens Gård AB, Lindens Media group**
+- **Sep 2022 - ongoing: Kvdbil**
 
-> Praktik via Arbetsförmedlingen på Lindens Gård AB. Här satt jag som webbutvecklare i diverse projekt var det största var nätbaserat “intranet” till Hässleholms Galleria som jag utvecklade i objektorienterad PHP, en sökmotor för att hitta närmaste veterinär och många fler. Var tyvärr en väldigt rörig arbetsplats och många av projekten blev aldrig slutförda innan min praktik avslutades.
+> TODO: 
 
-### Teknisk
+- **Feb 2018 - Sep 2022: Nerds of Sweden, Nerd/Developer**
 
-- **Advanced:** Linux, Docker, PHP, Laravel, Git, React, Angular, Python, JS, CSS, SCSS/SASS, HTML5, Bash,  Bootstrap, Materialize, Node/express, jQuery, MySQL, C#, CI/CD, Azure Devops, Jira
-- **Intermediate:** Bind9, Nagios, MongoDB
-- **Basic:** GOLang
+> This is where I have been for the past few years. Started with a position that was 100% outsourced to a client where I primarily worked on a React frontend hosted in an Azure environment. This lasted for about 1.5 years. Since then, I have worked on various projects where we have developed more custom web-based systems for different industries. It has also involved a delightful mix of different frameworks for both frontend, backend, and various hosting solutions.
 
-### Anställningar
+- **Feb 2017 - Oct 2017: JG Software AB, DevOps/Web Developer**
 
-- **Feb 2018 - Pågående: JG Software AB, Konsult/Webutvecklare/DevOps**
+> Developed container-based systems and services such as Node.js APIs, web applications, and mobile applications for both Android and iOS.
 
-> Detta är var jag hållt till de senaste åren. Började med en plats som 100% uthyrd hos en kund var jag i förstahand satt med en React frontend som hostades i en Azure miljö. Detta var ca 1.5 år. Där efter har jag suttit med divärse olika uppdrag var vi har tagit fram mer custom webbaserade system till olika brancher. Har också involverat en härlig blanding av olika ramverk både frontend, backend samt olika hosting lösningar.
+- **Aug 2012 - Jul 2014: Part-time Employment, Property Department, Bergendahls Food**
 
-- **Feb 2017 - Oct 2017: JG Software AB, DevOps/Webutvecklare**
+> Worked with everything from cleaning the warehouse to property maintenance, office services, and even being responsible for office supplies, mail, and packages.
 
-> Utvecklade container baserade system och tjänster så som nodejs APIer, webb applikationer och även mobil applikationer till både Android and iOS. I dagsläget är nästan allt jag jobbar med JS baserat.
+- **Jun 2009 - Aug 2013: Summer Substitute, Property Department, Bergendahls Food**
 
-- **Aug 2013 - Jul 2014: Timanställning, Fastighetsavdelningen, Bergendahls Food**
-
-> Jobbar med allt från att jag städar på lagret till  fastighetsskötsel och även kontorsmaterials ansvarig. Där hade jag även ansvar över inkommande/utgående fakturor, paket och övrig post.
-
-- **Jun 2013 - Aug 2013: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
-
-> Kontorsservice. Hade hand om kontorsmaterial och post.
-
-- **Aug 2012 - Jun 2013: Timanställning, Fastighetsavdelningen, Bergendahls Food**
-
-> Jobbade med allt från att städa på lagret, att vara fastighetsskötare och kontorsservice.
-
-- **Jun 2012 - Aug 2012: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
-
-> Jobba på kontorsservice där jag hade hand om inkommande/utgående fakturor, paket och övrig post. Där hade jag även ansvar över bland annat kontorsmaterial.
-
-- **Jun 2011 - Aug 2011: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
-
-> Jobbade åtta veckor med städningen av fryslagret men även trädgårdsarbete.
-
-- **Jun 2010 - Aug 2010: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
-
-> Jobbade åtta veckor med trädgårdsarbete och städning av lager.
-
-- **Jun 2009 - Jun 2009: Sommarvikariat, Fastighetsavdelningen, Bergendahls Food**
-
-> Jobbade fyra veckor med att städa på lagret.
+> Worked cleaning the dry, cold, and freezer storage, gardening, office services where I handled incoming/outgoing invoices, packages, and other mail, and was partly responsible for office supplies.
 
 \newpage
 
-### Projekt/Tjänster
+### Project/Services
 
-Projekt eller tjänster som jag har utvecklat eller varit delaktig i
+Projects or services that I have developed or been involved in.
 
-- **Okt 2020 Dekal editor med print och utskärnings export**
+- **2022 Reception app**
 
-> Projekt som består av en bild editor byggd i React och Fabric.js och därefter även en PDF export som är kompatibel för både print och utskärnings maskiner. Övriga siten är byggd i Wordpress och Woocomerce.
+> PWA to perform car inspection on lease returned cars. Great tool to make sure any damages get documented to invoice customers correctly.
+> Frontend Built in React with Vite.
 
-- **Jan 2020 - 2021? Resource uthyrnings admin panel**
+- **2022 Cargo**
 
-> Admin panel för att resource boknkngs system.
-Byggd i React
+> Internal administration tool used by KVD, administrates auctions, car transports, and much more.
+> Frontend Built in React and Redux.
 
-- **Maj 2019 Lambertsson Online**
+- **2022 Fleetmanager and Leasemanager**
 
-> Admin panel och app för att administrera Peabs internt och externt inhyrda verktyg, maskiner och redskap på alla möjliga bygg och renoverings projekt.
-Byggd i Laravel, Angular och NativeScript
+> Administration tool to administrate handling of the company's vehicles
+> Frontend Built in Next.js and Redux.
 
-- **Sep 2019 - Dec 2020 Resource uthyrnings admin panel**
+- **2022 kvd.se and kvdcars.com**
 
-> Admin panel för att administrera juridiska ärende.
-byggt i Lumen/Laravel och angular.
+> KVD's online auction and marketplace.
+> Frontend Built in React and Redux.
+
+- **2021 - 2022 Dacke.Online**
+
+> Dacke.Online is an easy-to-use digital sustainability tool for inventory and e-commerce site for reuse of products and materials.
+> Built in React and PHP Laravel.
+
+- **Oct 2020 Decal editor with print and cutting export**
+
+> Project consisting of an image editor built in React and Fabric.js, and a PDF export compatible with both print and cutting machines. The rest of the site is built in WordPress and WooCommerce.
+
+- **Jan 2020 - 2021? Resource rental admin panel**
+
+> Admin panel for resource booking system.
+> Built in React.
+
+- **May 2019 Lambertsson Online**
+
+> Admin panel and app for managing Peab's internally and externally rented tools, machines, and equipment in all possible construction and renovation projects.
+> Built in Laravel, Angular, and NativeScript.
+
+- **Sep 2019 - Dec 2020 Resource rental admin panel**
+
+> Admin panel for managing legal cases.
+> Built in Lumen/Laravel and Angular.
 
 - **Sep 2019 Satsa admin panel**
 
-> Admin panel för att administrera skadegörelse på framförallt tåg. Byggt i Laravel/Lumen och angular
+> Admin panel for managing vandalism, primarily on trains. Built in Laravel/Lumen and Angular.
 
-- **Feb 2018 – Sep 2019 Ontee** [ontee.com](http://ontee.com/) 
+- **Feb 2018 – Sep 2019 Ontee** [ontee.com](http://ontee.com/)
 
-> React frontend to Ontee's golf tee time booking engine system
+> React frontend to Ontee's golf tee time booking engine system.
 
-- **Feb 2018 – Sep 2019 Ontee** [app](https://www.ontee.com/sv/landing/app/) 
+- **Feb 2018 – Sep 2019 Ontee** [app](https://www.ontee.com/sv/landing/app/)
 
-> React Native Android and IOS application, client to Ontees golf tee time booking engine. Mostly tester
+> React Native Android and iOS application, client to Ontee's golf tee time booking engine. Mostly testing.
 
-- **Feb 2018 – Sep 2019 Golfhäfter** [golfhaftet.com](https://www.golfhaftet.com/sv/) 
+- **Feb 2018 – Sep 2019 Golfhäfter** [golfhaftet.com](https://www.golfhaftet.com/sv/)
 
-> I mostly upgraded the website to more modern js compiler and bootstrap 4
+> I mostly upgraded the website to a more modern JS compiler and Bootstrap 4.
 
-- **Feb 2018 – Sep 2019 Golfhäfter app** [iPhone](https://apps.apple.com/se/app/golfh%C3%A4ftet/id957686045), [Android](https://play.google.com/store/apps/details?id=com.golfhaftet.ghApp&hl=sv&gl=US) 
+- **Feb 2018 – Sep 2019 Golfhäfter app** [iPhone](https://apps.apple.com/se/app/golfh%C3%A4ftet/id957686045), [Android](https://play.google.com/store/apps/details?id=com.golfhaftet.ghApp&hl=sv&gl=US)
 
-> Testning of android versionen
+> Testing of Android version.
 
-- **Feb 2017 - Okt 2017 Roadside** [roadside.nu](http://roadside.nu/)
+- **Feb 2017 - Oct 2017 Roadside** [roadside.nu](http://roadside.nu/)
 
-> Case management software, used to administrate damage of truck trailers
+> Case management software, used to administrate damage of truck trailers.
 
 - **2017 Roadside Mechanical Interaction** [play.google.com/store/apps/details?id=nu.roadside.mi](https://play.google.com/store/apps/details?id=nu.roadside.mi)
 
->Android application used by onsite mechanics. To execute a case job administrated and assigned from Roadside.nu
+> Android application used by onsite mechanics. To execute a case job administrated and assigned from Roadside.nu.
 
 - **2016 MailToPython**
-> Lia projekt jag satt med på min lia hos JG software, projekt var en white listad email kunde skicka 
 
-- **2014?** Hässleholms Gallerias intranät
+  > Lia project I worked on during my Lia at JG software, the project was a whitelisted email that could send.
 
+- **2014?** Hässleholms mall intranet
+
+\newpage
+
+### Internships
+
+- **2016 - Feb 2017: JG Software AB, DevOps**
+
+> This was during my vocational education as a Linux System Specialist, and during this period, I helped develop JG Software's web-based Fleet/Case management service. I also created a mail server called "MailToPython" written in Python. During my internship, I introduced Git to the company, which is now extensively used in all projects under development.
+
+- **May 2014 - Jan 2015: Lindens Gård AB, Lindens Media Group**
+
+> Internship through the Employment Agency at Lindens Gård AB. Here, I worked as a web developer on various projects, the largest of which was a web-based "intranet" for Hässleholms Galleria, which I developed in object-oriented PHP, a search engine to find the nearest veterinarian, and many more. Unfortunately, it was a very disorganized workplace, and many of the projects were never completed before my internship ended.
 
 ### References
 
-Tillgängligt vid förfrågan.
+Available upon request.
 
-### Examensbevis eller Betyg
+### Diplomas or Grades
 
-Tillgänligt vid förfrågan.
+Available upon request.
 
-### Övrigt
+### Miscellaneous
 
-Detta CV är skrevit i markdown. Genererat med ett project och en LaTeX template som jag har forkat och byggt om på github.
+This CV is written in Markdown. Generated with a project and a LaTeX template that I have forked and rebuilt on GitHub.
 
 [github.com/yoieh/markdown-cv](https://github.com/yoieh/markdown-cv)
