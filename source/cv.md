@@ -23,8 +23,8 @@ profile: source/images/front.jpg
 ### Utbildning
 
 - **Sep 2015 - Dec 2016   YH, Linux System Specialist, Hermods EC, Malmö**
-- **Aug 2008 - Jun 2011   Gymnasium, Elprogrammet, IT inriktning, Jacobskolan, Hässleholm**
-- **Aug 1999 - Jun 2008   Grundskolan, Bjärnums centralskola, Bjärnum**
+- **Aug 2009 - Jun 2012   Gymnasium, Elprogrammet, IT inriktning, Jacobskolan, Hässleholm**
+- **Aug 1999 - Jun 2009   Grundskolan, Bjärnums centralskola, Bjärnum**
 
 ### Praktikplatser
 
