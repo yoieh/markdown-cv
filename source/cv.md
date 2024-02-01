@@ -27,8 +27,8 @@ profile: source/images/front.jpg
 ### Education
 
 - **Sep 2015 - Dec 2016 Higher Vocational Education, Linux System Specialist, Hermods EC, Malmö**
-- **Aug 2008 - Jun 2011 High School, Electrical Program, IT focus, Jacobskolan, Hässleholm**
-- **Aug 1999 - Jun 2008 Elementary School, Bjärnums Central School, Bjärnum**
+- **Aug 2009 - Jun 2012 High School, Electrical Program, IT focus, Jacobskolan, Hässleholm**
+- **Aug 1999 - Jun 2009 Elementary School, Bjärnums Central School, Bjärnum**
 
 ### Skills
 
