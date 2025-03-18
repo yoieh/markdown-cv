@@ -4,6 +4,11 @@
 \documentclass[11pt, a4paper, titlepage]{article}
 \usepackage{fontspec} 
 
+% Silence specific LaTeX warnings
+\usepackage{silence}
+\WarningFilter{latex}{Command \underbar has changed}
+\WarningFilter{latex}{Command \underline has changed}
+
 % DOCUMENT LAYOUT
 \usepackage[margin=1.2in]{geometry} 
 \setlength\parindent{0in}
@@ -44,10 +49,19 @@
 % \setsansfont[Scale=1.0]{Optima Regular} 
 
 % HEADINGS and TITLES
-\usepackage{sectsty}
+% Load ulem first to avoid command redefinition warnings
 \usepackage[normalem]{ulem}
+\usepackage{sectsty}
 \usepackage{graphicx}
-\sectionfont{\sffamily\mdseries\large\underline} % Underlines headings
+
+% Modified section heading style with custom underline
+\sectionfont{\sffamily\mdseries\large}
+\renewcommand{\section}[1]{%
+  \par\noindent\refstepcounter{section}%
+  {\sffamily\mdseries\large #1}%
+  \par\noindent\rule{\textwidth}{0.4pt}\par\noindent%
+}
+
 \setcounter{secnumdepth}{-1} % Removes the numbers before sections
 \subsectionfont{\rmfamily\mdseries\scshape\normalsize}
 \subsubsectionfont{\rmfamily\bfseries\upshape\normalsize}
