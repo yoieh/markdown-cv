@@ -67,14 +67,13 @@
 \subsubsectionfont{\rmfamily\bfseries\upshape\normalsize}
 
 \usepackage{titling}
-\title{$author$} % name $if(author)$$author$$endif$
-\date{$if(date)$$date$\\$endif$} % Leave blank to remove the date
-\author{$if(website)$$website$\\\\$endif$
-$if(title)$$title$\\\\$endif$
-$if(github)$Github: \href{$githubURL$}{$github$}\\$endif$
-$if(linkedin)$Linkedin: \href{$linkedinURL$}{$linkedin$}\\$endif$
-$street$ \textbar{} $city$, $postcode$\\ %Put your address here
-$phone$ \textbar{} $email$ } % put your contact information here
+\title{$if(author)$$author$$endif$}
+\date{$if(date)$$date$$endif$}
+\author{$if(email)$$email$$endif$\\\
+$if(phone)$$phone$$endif$\\\
+$if(githubURL)$GitHub: \href{$githubURL$}{github.com/yoieh}$endif$\\\
+$if(linkedinURL)$LinkedIn: \href{$linkedinURL$}{linkedin.com/in/johan-nilsson}$endif$
+}
 
 % BEGIN DOCUMENT
 \begin{document}
