@@ -1,7 +1,7 @@
 ---
 title: "CV"
 author: "Johan Nilsson"
-date: "02 April 2023"
+date: "18 Mars 2025"
 phone: "+46 70 918 1727"
 email: "yoieh@live.se"
 githubURL: "https://github.com/yoieh"
